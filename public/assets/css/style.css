@@ -1,0 +1,21 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+.btn-reaction {
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    background-color: #ffffff;
+    border: 2px solid rgba(0, 0, 0, .1);
+    width: 60px;
+    margin-bottom: 5px;
+}
+
+.btn-reaction:hover {
+    background-color: #cecece
+}
+
+.btn-reaction:active {
+    background-color: #cecece;
+    transform: translateY(4px);
+}
